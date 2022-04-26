@@ -7,7 +7,6 @@ namespace SnakeLadder
     {
          static int playerPos = 0;
         static Random DieRoll = new Random();
-
        static  Random SnakeVsLadder = new Random();
         public static  void snakeVsLadder()
         {
